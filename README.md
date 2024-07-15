@@ -1,1 +1,3 @@
-# Gym-management-system-MERN
+# Library management system
+
+# Requirements:
